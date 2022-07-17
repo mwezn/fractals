@@ -1,7 +1,7 @@
 
 # Computing the Riemann Zeta function & its fractals
-This was the title of my final year maths project
-I done studying on fractal geometry & complex numbers
+This was the title of my final year maths project.
+I did further studying on fractal geometry & complex numbers
 back in July 2015. 
 Fractal geometry can be used often to descibe the geometry or shape of features
 found throughout nature

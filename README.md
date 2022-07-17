@@ -1,8 +1,15 @@
 
+# Computing the Riemann Zeta function & its fractals
+This was the title of my final year maths project
+I done research into fractal geometry & complex numbers
+back in July 2015. 
+which included the Mandelbrot set. The image you see below is an approximation
+UPDATE: First time looking at this code in 7 years!
 
-## The file called `mandelprot.py` is very inefficient and needs improving, however its the code that helped me acheive a first in my final year maths project at university
-### I submitted this on paper back in 2015 & never looked at it again until 17th July 2022!
-### This will need improving
 
+![Alt text](mandelbrot.png?raw=true "Optional Title")
 
-![Alt text](mandel.png?raw=true "Optional Title")
+## Wins & challenges
+- I acheived a first with regards to maths
+- The code is very inefficient & needs improving 
+- There are too many for loops which increases the run time exponentially?

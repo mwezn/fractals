@@ -1,9 +1,14 @@
 
 # Computing the Riemann Zeta function & its fractals
 This was the title of my final year maths project
-I done research into fractal geometry & complex numbers
+I done studying on fractal geometry & complex numbers
 back in July 2015. 
-which included the Mandelbrot set. The image you see below is an approximation
+Fractal geometry can be used often to descibe the geometry or shape of features
+found throughout nature
+including the coastlines of countries, the shape of galaxies, the structure of snowflakes & trees etc.
+Basically its a pattern which just repeats itself on smaller & smaller scales. 
+
+The Mandelbrot set is one of the most famous examples of a fractal. The image you see below is an approximation
 UPDATE: First time looking at this code in 7 years!
 
 

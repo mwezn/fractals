@@ -16,7 +16,7 @@ The Mandelbrot set is one of the most famous examples of a fractal. The images y
 ### The following images show the increase in detail of the set as the variable `loops` increases from 5, to 10 & 100 respectively 
 
 ![Alt text](5loops.png?raw=true "Optional Title")
-![Alt text](10loops?raw=true "Optional Title")
+![Alt text](10loops.png?raw=true "Optional Title")
 ![Alt text](mandelbrot.png?raw=true "Optional Title")
 
 

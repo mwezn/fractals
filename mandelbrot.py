@@ -1,8 +1,12 @@
+try:  
+    # Python v2
+   from Tkinter import *
+except ImportError:
+    #Python v3
+    from tkinter import *
 
-from Tkinter import *
-
-cwidth=250
-cheight=250
+cwidth=250 #width of the canvas
+cheight=250 #height of the canvas
 loops=100
 w=256
 
@@ -17,21 +21,19 @@ def hex_list(k):
 
 
 def mandel(cv,x1,y1,x2,y2):
-    dx=float(abs(x2-x1))/cwidth
-    dy=float(abs(y2-y1))/cheight
+    dx=float(abs(x2-x1))/cwidth  #calculate the x increment of each pixel
+    dy=float(abs(y2-y1))/cheight #calculate the y increment of each pixel
 
     y=y1
     for j in range(0,cheight):
         x=x1
         for i in range(0,cwidth):
             x=x+dx
-            c=complex(x,y)
+            c=complex(x,y)   #let each pixel on the screen represent a complex number
             z=0.0
             print(c)
             for k in range(0,loops):
               z=z**2 +c
-              print(k)
-              print(abs(z))
               if abs(z)>2:
                  break
             if k==0:

@@ -21,6 +21,9 @@ The Mandelbrot set is one of the most famous examples of a fractal. The images y
 
 
 ## Wins & challenges
-- I acheived a first with regards to maths
+- I achieved a first with regards to maths
 - The code is very inefficient & needs improving 
+## Improvements needed
+- Will rewrite this in a Django app
 - There are too many for loops which increases the run time exponentially?
+- Optimisation/Memoization might be needed

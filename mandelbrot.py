@@ -7,7 +7,7 @@ except ImportError:
 
 cwidth=250 #width of the canvas
 cheight=250 #height of the canvas
-loops=100
+loops=5
 w=256
 
 def hex_list(k):
